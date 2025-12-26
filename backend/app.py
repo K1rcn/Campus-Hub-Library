@@ -58,7 +58,7 @@ def create_app():
 
     @app.route('/')
     def home():
-        return {"msg": "Campus Hub API"}
+        return {"msg": "Campus Hub API by Malaika Mateen"}
 
     return app
 

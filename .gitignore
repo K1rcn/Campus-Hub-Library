@@ -1,0 +1,38 @@
+# Python 
+__pycache__/ 
+*.py[cod] 
+*.so 
+*.egg-info/ 
+*.egg 
+venv/ 
+*.env 
+.env 
+env/ 
+backend/.venv/ 
+frontend/.venv/ 
+ 
+# Node 
+node_modules/ 
+frontend/node_modules/ 
+npm-debug.log* 
+yarn-debug.log* 
+yarn-error.log* 
+ 
+# Byte-compiled / distribution 
+dist/ 
+build/ 
+ 
+# SQLite DB 
+*.db 
+*.sqlite3 
+campushub.db 
+ 
+# IDEs 
+.vscode/ 
+.idea/ 
+ 
+# macOS 
+.DS_Store 
+ 
+# logs 
+*.log 
