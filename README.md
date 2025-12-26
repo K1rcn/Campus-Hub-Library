@@ -9,7 +9,7 @@ CampusHub is a lightweight library-management / campus resource demo app with a 
 - Borrowing system with:
   - 14-day default loan period
   - Due date tracking
-  - Fine calculation: INR 100 per overdue day
+  - Fine calculation: PKR 100 per overdue day
   - Only the borrower may return a book (admins may view borrowings)
 - Frontend: React (Vite) with Context API; UI using Material UI (MUI).
 - Backend: Flask, SQLAlchemy, Flask-Migrate (Alembic) for migrations.
